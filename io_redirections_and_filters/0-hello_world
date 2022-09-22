@@ -1,2 +1,2 @@
 #!/bin/bash
-lp "Hello, World" | wc
+echo "Hello, World" | wc
