@@ -1,2 +1,2 @@
-#!#bin/bash
+#!/bin/bash
 echo $((water+stir)) | tr '1234567' 'bestchol'
